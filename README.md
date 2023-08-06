@@ -13,7 +13,7 @@
 
 # Azure Key Vault Backup
 - Secrets, keys, and certificates can be backed up
-- Soft Delete is available to protect against malicious or accidental deletion
+- Soft Delete is an available option to protect against malicious or accidental deletion
 - Restore keys
 - Offline backup onto your local machine
 - Ability to restore backups onto another key vault but the key vaults must be in the same geographical region and same subscription.
